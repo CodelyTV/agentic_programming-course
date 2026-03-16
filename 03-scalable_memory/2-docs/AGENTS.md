@@ -16,8 +16,24 @@ npm run test
 
 # Conventions
 
-Detailed conventions with examples live in `docs/`. **Do NOT read all docs upfront.** When working on a task:
+- Detailed conventions with examples live in `docs/`.
+- **Do NOT read all docs upfront.**
+- When working on a task, use this map to find and read only the docs relevant to your task:
 
-1. Identify which area applies: `docs/backend/`, `docs/database/`, `docs/testing/`, or `docs/` root.
-2. Run `ls` only on that specific folder to discover relevant file names.
-3. Read only the docs whose name matches what you need.
+```
+docs/
+├── code-style.md
+├── documentation-format.md
+├── backend/
+│   ├── api-routes-reflect-metadata.md
+│   ├── dependency-injection-diod.md
+│   ├── hexagonal-architecture.md
+│   └── thin-api-routes.md
+├── database/
+│   ├── not-null-fields.md
+│   ├── table-naming-singular-plural-convention.md
+│   └── text-over-varchar-char-convention.md
+└── testing/
+    ├── mock-objects.md
+    └── object-mothers.md
+```
