@@ -1,7 +1,7 @@
-mkdir -p .cursor/rules && {
+mkdir -p ~/.cursor/rules && {
   echo '---'
   echo 'description: Global agents rules'
-  echo 'globs: "**/*"'
+  echo 'alwaysApply: true'
   echo '---'
-  cat agents.md
-} > .cursor/rules/agents.mdc
+  echo 'Read ~/agents.md'
+} > ~/.cursor/rules/agents.mdc
