@@ -5,4 +5,4 @@
 
 ## Simple query
 
-> How many cooked dishes are currently in the postgres database?
+> Using Playwright, verify that all dishes in the Postgres database are displayed on localhost:3000.
