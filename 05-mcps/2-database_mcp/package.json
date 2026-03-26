@@ -6,6 +6,7 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
+		"create-dishes": "ts-node ./src/app/scripts/create-dishes.ts",
 		"lint": "eslint .",
 		"lint:fix": "eslint . --fix",
 		"test": "jest --testPathIgnorePatterns=.*\\.ci\\.test\\.ts$",
