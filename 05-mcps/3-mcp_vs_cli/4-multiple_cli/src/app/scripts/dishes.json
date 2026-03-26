@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "1e5c05c1-2a13-4407-b6ba-7ef2346f755f",
+    "name": "Paella Valenciana",
+    "description": "Traditional Valencian rice dish with chicken, rabbit, green beans, and saffron cooked in a wide shallow pan.",
+    "ingredients": [
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "chicken",
+        "type": "main"
+      },
+      {
+        "name": "rabbit",
+        "type": "main"
+      },
+      {
+        "name": "green beans",
+        "type": "main"
+      },
+      {
+        "name": "saffron",
+        "type": "main"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "aa13ab74-b7af-4909-95b9-956cc815627d",
+    "name": "Tortilla Espanola",
+    "description": "Classic Spanish omelette made with eggs, potatoes, and onion, slowly cooked until golden on both sides.",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "2df9dbad-9bcd-42ff-89cc-5a2f8df05371",
+    "name": "Gazpacho Andaluz",
+    "description": "Chilled Andalusian tomato soup blended with peppers, cucumber, garlic, and bread, served cold in summer.",
+    "ingredients": [
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "red bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "cucumber",
+        "type": "main"
+      },
+      {
+        "name": "stale bread",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "sherry vinegar",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "e937bf95-0b52-4c59-a850-912dea6eaabb",
+    "name": "Spaghetti Carbonara",
+    "description": "Roman pasta dish with guanciale, egg yolks, Pecorino Romano, and black pepper. No cream allowed.",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "type": "main"
+      },
+      {
+        "name": "guanciale",
+        "type": "main"
+      },
+      {
+        "name": "egg yolks",
+        "type": "main"
+      },
+      {
+        "name": "pecorino romano",
+        "type": "main"
+      },
+      {
+        "name": "black pepper",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "bba59405-fb46-4df7-8e33-0039526393e0",
+    "name": "Tacos al Pastor",
+    "description": "Mexican street tacos with marinated pork cooked on a vertical spit, served with pineapple, onion, and cilantro.",
+    "ingredients": [
+      {
+        "name": "pork shoulder",
+        "type": "main"
+      },
+      {
+        "name": "corn tortillas",
+        "type": "main"
+      },
+      {
+        "name": "pineapple",
+        "type": "main"
+      },
+      {
+        "name": "dried chilies",
+        "type": "main"
+      },
+      {
+        "name": "achiote paste",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "cilantro",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "4c928aec-ddc2-4f40-ba75-7b85d938ccb7",
+    "name": "Salmon Nigiri Sushi",
+    "description": "Japanese hand-pressed sushi with fresh salmon slices over seasoned vinegared rice.",
+    "ingredients": [
+      {
+        "name": "sushi rice",
+        "type": "main"
+      },
+      {
+        "name": "fresh salmon",
+        "type": "main"
+      },
+      {
+        "name": "rice vinegar",
+        "type": "household_staple"
+      },
+      {
+        "name": "wasabi",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9c0a599e-5cb8-449f-81a8-99d4fd0d1227",
+    "name": "Pad Thai",
+    "description": "Thai stir-fried rice noodles with shrimp, tofu, bean sprouts, peanuts, and tamarind sauce.",
+    "ingredients": [
+      {
+        "name": "rice noodles",
+        "type": "main"
+      },
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "tofu",
+        "type": "main"
+      },
+      {
+        "name": "bean sprouts",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "tamarind paste",
+        "type": "main"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "a72e262e-5589-4d5b-b4b5-fd2642ca40ab",
+    "name": "Tonkotsu Ramen",
+    "description": "Rich and creamy Japanese pork bone broth ramen with chashu pork, soft-boiled egg, and nori.",
+    "ingredients": [
+      {
+        "name": "ramen noodles",
+        "type": "main"
+      },
+      {
+        "name": "pork bones",
+        "type": "main"
+      },
+      {
+        "name": "chashu pork belly",
+        "type": "main"
+      },
+      {
+        "name": "soft-boiled egg",
+        "type": "main"
+      },
+      {
+        "name": "nori",
+        "type": "main"
+      },
+      {
+        "name": "green onions",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5ddbed1e-8954-480c-97cc-fb3171d101dd",
+    "name": "Ceviche Peruano",
+    "description": "Peruvian raw fish cured in fresh lime juice with red onion, chili, and cilantro, served with sweet potato.",
+    "ingredients": [
+      {
+        "name": "white fish",
+        "type": "main"
+      },
+      {
+        "name": "lime juice",
+        "type": "main"
+      },
+      {
+        "name": "red onion",
+        "type": "main"
+      },
+      {
+        "name": "aji amarillo",
+        "type": "main"
+      },
+      {
+        "name": "sweet potato",
+        "type": "main"
+      },
+      {
+        "name": "cilantro",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5fe5122d-9aa7-4f04-ab94-76eebf394e4b",
+    "name": "Butter Chicken",
+    "description": "Creamy Indian curry with tender chicken pieces in a rich tomato, butter, and spice sauce.",
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "type": "main"
+      },
+      {
+        "name": "tomato puree",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "heavy cream",
+        "type": "main"
+      },
+      {
+        "name": "garam masala",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "8ec23de0-55cb-43b1-a3aa-7a030f7627cd",
+    "name": "Coq au Vin",
+    "description": "French braised chicken in red wine with mushrooms, pearl onions, and lardons.",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "type": "main"
+      },
+      {
+        "name": "red wine",
+        "type": "main"
+      },
+      {
+        "name": "mushrooms",
+        "type": "main"
+      },
+      {
+        "name": "pearl onions",
+        "type": "main"
+      },
+      {
+        "name": "lardons",
+        "type": "main"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "bay leaf",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "b38214a7-5934-41e0-9baa-73d028f00582",
+    "name": "Bibimbap",
+    "description": "Korean mixed rice bowl topped with sauteed vegetables, beef, fried egg, and gochujang sauce.",
+    "ingredients": [
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "beef",
+        "type": "main"
+      },
+      {
+        "name": "spinach",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "zucchini",
+        "type": "main"
+      },
+      {
+        "name": "egg",
+        "type": "main"
+      },
+      {
+        "name": "gochujang",
+        "type": "main"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "f5d28233-c817-41a1-a836-cb875c985540",
+    "name": "Moussaka",
+    "description": "Greek layered casserole with eggplant, spiced lamb mince, and creamy bechamel sauce baked until golden.",
+    "ingredients": [
+      {
+        "name": "eggplant",
+        "type": "main"
+      },
+      {
+        "name": "ground lamb",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "bechamel sauce",
+        "type": "main"
+      },
+      {
+        "name": "parmesan",
+        "type": "main"
+      },
+      {
+        "name": "cinnamon",
+        "type": "household_staple"
+      },
+      {
+        "name": "nutmeg",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "edfc645b-e726-48a8-9e77-31d264a2cbfe",
+    "name": "Pho Bo",
+    "description": "Vietnamese beef noodle soup with aromatic star anise broth, rice noodles, and fresh herbs.",
+    "ingredients": [
+      {
+        "name": "beef bones",
+        "type": "main"
+      },
+      {
+        "name": "rice noodles",
+        "type": "main"
+      },
+      {
+        "name": "beef sirloin",
+        "type": "main"
+      },
+      {
+        "name": "star anise",
+        "type": "main"
+      },
+      {
+        "name": "cinnamon stick",
+        "type": "main"
+      },
+      {
+        "name": "bean sprouts",
+        "type": "main"
+      },
+      {
+        "name": "thai basil",
+        "type": "household_staple"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "77162345-f258-45ce-ad2c-b7b005286130",
+    "name": "Risotto ai Funghi Porcini",
+    "description": "Creamy Italian risotto with dried porcini mushrooms, white wine, and Parmigiano-Reggiano.",
+    "ingredients": [
+      {
+        "name": "arborio rice",
+        "type": "main"
+      },
+      {
+        "name": "porcini mushrooms",
+        "type": "main"
+      },
+      {
+        "name": "white wine",
+        "type": "main"
+      },
+      {
+        "name": "parmigiano-reggiano",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable broth",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "4cec5628-3c19-4013-a65c-c8d75b6ddb88",
+    "name": "Falafel",
+    "description": "Middle Eastern deep-fried chickpea patties seasoned with herbs, served in pita with tahini sauce.",
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "type": "main"
+      },
+      {
+        "name": "parsley",
+        "type": "main"
+      },
+      {
+        "name": "cilantro",
+        "type": "main"
+      },
+      {
+        "name": "pita bread",
+        "type": "main"
+      },
+      {
+        "name": "tahini",
+        "type": "main"
+      },
+      {
+        "name": "cumin",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5c71c99f-5dfc-418d-b619-67361dbdc881",
+    "name": "Fish and Chips",
+    "description": "British classic of beer-battered cod fried until crispy, served with thick-cut chips and mushy peas.",
+    "ingredients": [
+      {
+        "name": "cod fillets",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "beer",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "household_staple"
+      },
+      {
+        "name": "baking powder",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "7f93d0f2-34ef-4917-8af1-5923039633b6",
+    "name": "Hungarian Goulash",
+    "description": "Hearty Hungarian stew with beef, onions, and paprika, slow-cooked until tender and deeply flavored.",
+    "ingredients": [
+      {
+        "name": "beef chuck",
+        "type": "main"
+      },
+      {
+        "name": "onions",
+        "type": "main"
+      },
+      {
+        "name": "hungarian paprika",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "caraway seeds",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5031218a-146e-4b92-b4b4-340495b5d4b8",
+    "name": "Har Gow (Shrimp Dumplings)",
+    "description": "Cantonese translucent steamed dumplings filled with whole shrimp and bamboo shoots.",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "wheat starch",
+        "type": "main"
+      },
+      {
+        "name": "tapioca starch",
+        "type": "main"
+      },
+      {
+        "name": "bamboo shoots",
+        "type": "main"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "white pepper",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "6b442473-7ebb-4fcd-bdb7-65228d524f43",
+    "name": "Pierogi",
+    "description": "Polish dumplings filled with potato and cheese, boiled then pan-fried in butter with caramelized onions.",
+    "ingredients": [
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "farmer's cheese",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "sour cream",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "31406435-f5c0-493c-b3f0-b053e29822f7",
+    "name": "Jollof Rice",
+    "description": "West African one-pot tomato rice with scotch bonnet peppers, spices, and smoky flavors.",
+    "ingredients": [
+      {
+        "name": "long grain rice",
+        "type": "main"
+      },
+      {
+        "name": "tomato paste",
+        "type": "main"
+      },
+      {
+        "name": "scotch bonnet pepper",
+        "type": "main"
+      },
+      {
+        "name": "red bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "bay leaf",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9b294b5d-1e83-4fdd-8f4e-3004fd24cc09",
+    "name": "Shakshuka",
+    "description": "North African eggs poached in a spiced tomato and pepper sauce, served with crusty bread.",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "red bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "crusty bread",
+        "type": "main"
+      },
+      {
+        "name": "cumin",
+        "type": "household_staple"
+      },
+      {
+        "name": "paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "485363d1-5ec7-417c-be2d-bc298a1fd3b9",
+    "name": "Beef Bourguignon",
+    "description": "French slow-braised beef stew in Burgundy wine with carrots, mushrooms, and pearl onions.",
+    "ingredients": [
+      {
+        "name": "beef chuck",
+        "type": "main"
+      },
+      {
+        "name": "burgundy wine",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "mushrooms",
+        "type": "main"
+      },
+      {
+        "name": "pearl onions",
+        "type": "main"
+      },
+      {
+        "name": "bacon",
+        "type": "main"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "bdef91c6-cc98-402c-8fcb-917fc440f23e",
+    "name": "Tom Yum Goong",
+    "description": "Thai hot and sour shrimp soup with lemongrass, galangal, kaffir lime leaves, and mushrooms.",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "lemongrass",
+        "type": "main"
+      },
+      {
+        "name": "galangal",
+        "type": "main"
+      },
+      {
+        "name": "kaffir lime leaves",
+        "type": "main"
+      },
+      {
+        "name": "mushrooms",
+        "type": "main"
+      },
+      {
+        "name": "chili paste",
+        "type": "main"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "aa593be3-ba93-4212-8820-6c519bc1db87",
+    "name": "Empanadas Argentinas",
+    "description": "Argentine baked pastry turnovers filled with seasoned beef, olives, egg, and cumin.",
+    "ingredients": [
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "ground beef",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "green olives",
+        "type": "main"
+      },
+      {
+        "name": "hard-boiled egg",
+        "type": "main"
+      },
+      {
+        "name": "cumin",
+        "type": "household_staple"
+      },
+      {
+        "name": "paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "cf62da49-6d07-49f2-a664-9ec4816afd0e",
+    "name": "Massaman Curry",
+    "description": "Rich Thai Muslim-influenced curry with tender beef, potatoes, peanuts, and warm spices in coconut milk.",
+    "ingredients": [
+      {
+        "name": "beef",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "massaman curry paste",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "palm sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "tamarind paste",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9e5a8a8e-4b6f-4c2b-a204-ea5ed19d8956",
+    "name": "Arepas Reina Pepiada",
+    "description": "Venezuelan corn cakes stuffed with shredded chicken and avocado salad.",
+    "ingredients": [
+      {
+        "name": "pre-cooked corn flour",
+        "type": "main"
+      },
+      {
+        "name": "chicken breast",
+        "type": "main"
+      },
+      {
+        "name": "avocado",
+        "type": "main"
+      },
+      {
+        "name": "mayonnaise",
+        "type": "main"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "3e219cef-d808-4356-b24b-0e99a10cf06b",
+    "name": "Ossobuco alla Milanese",
+    "description": "Milanese braised veal shanks in white wine and broth, finished with gremolata of lemon, garlic, and parsley.",
+    "ingredients": [
+      {
+        "name": "veal shanks",
+        "type": "main"
+      },
+      {
+        "name": "white wine",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "celery",
+        "type": "main"
+      },
+      {
+        "name": "lemon zest",
+        "type": "main"
+      },
+      {
+        "name": "parsley",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "79624a07-bd8a-4c66-8351-72987cee0824",
+    "name": "Peking Duck",
+    "description": "Chinese roasted duck with lacquered crispy skin, served with thin pancakes, scallions, and hoisin sauce.",
+    "ingredients": [
+      {
+        "name": "whole duck",
+        "type": "main"
+      },
+      {
+        "name": "mandarin pancakes",
+        "type": "main"
+      },
+      {
+        "name": "hoisin sauce",
+        "type": "main"
+      },
+      {
+        "name": "scallions",
+        "type": "main"
+      },
+      {
+        "name": "cucumber",
+        "type": "main"
+      },
+      {
+        "name": "honey",
+        "type": "household_staple"
+      },
+      {
+        "name": "five-spice powder",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9b89f3e2-4185-4e14-9ab1-956e9dd7b11b",
+    "name": "Cacio e Pepe",
+    "description": "Roman pasta with just three ingredients: tonnarelli pasta, Pecorino Romano, and freshly cracked black pepper.",
+    "ingredients": [
+      {
+        "name": "tonnarelli pasta",
+        "type": "main"
+      },
+      {
+        "name": "pecorino romano",
+        "type": "main"
+      },
+      {
+        "name": "black pepper",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5a15e8f7-90bc-4eb7-ac97-737535daf96b",
+    "name": "Thai Green Curry",
+    "description": "Aromatic Thai curry with chicken, Thai eggplant, and bamboo shoots in green curry paste and coconut milk.",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "green curry paste",
+        "type": "main"
+      },
+      {
+        "name": "thai eggplant",
+        "type": "main"
+      },
+      {
+        "name": "bamboo shoots",
+        "type": "main"
+      },
+      {
+        "name": "thai basil",
+        "type": "household_staple"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "palm sugar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "7af7b750-7499-4b6e-86ad-449f1f966aac",
+    "name": "Churrasco Brasileiro",
+    "description": "Brazilian-style grilled picanha steak seasoned with coarse salt, sliced thin and served with farofa.",
+    "ingredients": [
+      {
+        "name": "picanha beef",
+        "type": "main"
+      },
+      {
+        "name": "farofa",
+        "type": "main"
+      },
+      {
+        "name": "coarse salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5df8e48a-761f-423c-99cb-2242f843e625",
+    "name": "Bouillabaisse",
+    "description": "Provencal fisherman's stew with mixed seafood, saffron, fennel, and tomatoes, served with rouille and croutons.",
+    "ingredients": [
+      {
+        "name": "mixed white fish",
+        "type": "main"
+      },
+      {
+        "name": "mussels",
+        "type": "main"
+      },
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "fennel",
+        "type": "main"
+      },
+      {
+        "name": "saffron",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "1bca5096-89c1-49d0-bab2-4a1464617c54",
+    "name": "Kimchi Jjigae",
+    "description": "Korean fermented kimchi stew with pork belly, tofu, and vegetables, bubbling hot and deeply savory.",
+    "ingredients": [
+      {
+        "name": "aged kimchi",
+        "type": "main"
+      },
+      {
+        "name": "pork belly",
+        "type": "main"
+      },
+      {
+        "name": "tofu",
+        "type": "main"
+      },
+      {
+        "name": "gochugaru",
+        "type": "main"
+      },
+      {
+        "name": "green onions",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "cbf92084-e83f-419f-9dc6-595a05ac5ae2",
+    "name": "Cochinita Pibil",
+    "description": "Yucatecan slow-roasted pork marinated in achiote and sour orange, wrapped in banana leaves.",
+    "ingredients": [
+      {
+        "name": "pork shoulder",
+        "type": "main"
+      },
+      {
+        "name": "achiote paste",
+        "type": "main"
+      },
+      {
+        "name": "sour orange juice",
+        "type": "main"
+      },
+      {
+        "name": "banana leaves",
+        "type": "main"
+      },
+      {
+        "name": "pickled red onion",
+        "type": "main"
+      },
+      {
+        "name": "habanero",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "3724886c-7882-4f11-800c-7acdc7f58196",
+    "name": "Ratatouille",
+    "description": "Provencal vegetable dish with layered slices of eggplant, zucchini, tomato, and bell pepper baked in herb sauce.",
+    "ingredients": [
+      {
+        "name": "eggplant",
+        "type": "main"
+      },
+      {
+        "name": "zucchini",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "red bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "yellow bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9650d5b8-7eef-46e1-b290-ad72cdbce40b",
+    "name": "Masala Dosa",
+    "description": "South Indian crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling.",
+    "ingredients": [
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "urad dal",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "mustard seeds",
+        "type": "main"
+      },
+      {
+        "name": "curry leaves",
+        "type": "main"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "591f1ebc-c122-4646-aa38-3fd0345e5eb0",
+    "name": "Lamb Tagine with Apricots",
+    "description": "Moroccan slow-cooked lamb stew with dried apricots, almonds, and warm spices in a conical clay pot.",
+    "ingredients": [
+      {
+        "name": "lamb shoulder",
+        "type": "main"
+      },
+      {
+        "name": "dried apricots",
+        "type": "main"
+      },
+      {
+        "name": "almonds",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "ras el hanout",
+        "type": "main"
+      },
+      {
+        "name": "cinnamon",
+        "type": "household_staple"
+      },
+      {
+        "name": "honey",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5213fabe-df75-4e09-9d7e-e11532baf1bf",
+    "name": "Ahi Tuna Poke Bowl",
+    "description": "Hawaiian raw ahi tuna cubes marinated in soy and sesame, served over rice with avocado and edamame.",
+    "ingredients": [
+      {
+        "name": "ahi tuna",
+        "type": "main"
+      },
+      {
+        "name": "sushi rice",
+        "type": "main"
+      },
+      {
+        "name": "avocado",
+        "type": "main"
+      },
+      {
+        "name": "edamame",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "sesame seeds",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "a803c7ad-73b3-4a70-a6e0-141489068775",
+    "name": "Wiener Schnitzel",
+    "description": "Austrian breaded and fried veal cutlet pounded thin, served with lemon wedge and potato salad.",
+    "ingredients": [
+      {
+        "name": "veal cutlets",
+        "type": "main"
+      },
+      {
+        "name": "breadcrumbs",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "lemon",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "132e31a1-76e6-4427-a63a-b9a11f0b18f0",
+    "name": "Mole Poblano",
+    "description": "Complex Mexican sauce with over 20 ingredients including dried chilies, chocolate, and spices, served over turkey.",
+    "ingredients": [
+      {
+        "name": "turkey",
+        "type": "main"
+      },
+      {
+        "name": "dried ancho chilies",
+        "type": "main"
+      },
+      {
+        "name": "dried mulato chilies",
+        "type": "main"
+      },
+      {
+        "name": "mexican chocolate",
+        "type": "main"
+      },
+      {
+        "name": "sesame seeds",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "cinnamon",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "941aec88-da05-4937-ae39-025d9cfdcfff",
+    "name": "Borscht",
+    "description": "Eastern European beet soup with cabbage, potatoes, and dill, served hot with a dollop of sour cream.",
+    "ingredients": [
+      {
+        "name": "beets",
+        "type": "main"
+      },
+      {
+        "name": "cabbage",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "beef broth",
+        "type": "main"
+      },
+      {
+        "name": "sour cream",
+        "type": "main"
+      },
+      {
+        "name": "dill",
+        "type": "household_staple"
+      },
+      {
+        "name": "vinegar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5ec5a6d2-ae6f-4429-888a-cc071909d769",
+    "name": "Laksa",
+    "description": "Malaysian spicy coconut noodle soup with shrimp, tofu puffs, and bean sprouts in a rich curry broth.",
+    "ingredients": [
+      {
+        "name": "rice vermicelli",
+        "type": "main"
+      },
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "laksa paste",
+        "type": "main"
+      },
+      {
+        "name": "tofu puffs",
+        "type": "main"
+      },
+      {
+        "name": "bean sprouts",
+        "type": "main"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "0208b7fa-389d-4826-8058-30111af31622",
+    "name": "Pupusas",
+    "description": "Salvadoran thick corn tortillas stuffed with cheese, beans, and chicharron, served with curtido slaw.",
+    "ingredients": [
+      {
+        "name": "masa harina",
+        "type": "main"
+      },
+      {
+        "name": "quesillo cheese",
+        "type": "main"
+      },
+      {
+        "name": "refried beans",
+        "type": "main"
+      },
+      {
+        "name": "chicharron",
+        "type": "main"
+      },
+      {
+        "name": "cabbage",
+        "type": "main"
+      },
+      {
+        "name": "vinegar",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9b197785-130a-4e23-8fda-6a529e1e6fb4",
+    "name": "Khao Soi",
+    "description": "Northern Thai coconut curry noodle soup with chicken, crispy egg noodles, and pickled mustard greens.",
+    "ingredients": [
+      {
+        "name": "egg noodles",
+        "type": "main"
+      },
+      {
+        "name": "chicken legs",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "red curry paste",
+        "type": "main"
+      },
+      {
+        "name": "pickled mustard greens",
+        "type": "main"
+      },
+      {
+        "name": "shallots",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime",
+        "type": "household_staple"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9f854662-9a0f-4cc1-9556-1e80de4f3d44",
+    "name": "Patatas Bravas",
+    "description": "Spanish fried potato cubes served with spicy bravas tomato sauce and garlic aioli.",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "tomato sauce",
+        "type": "main"
+      },
+      {
+        "name": "mayonnaise",
+        "type": "main"
+      },
+      {
+        "name": "smoked paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "cayenne pepper",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "52702201-c7ff-4929-b160-c5e743ca9062",
+    "name": "Gyoza",
+    "description": "Japanese pan-fried dumplings with pork and cabbage filling, crispy on the bottom and steamed on top.",
+    "ingredients": [
+      {
+        "name": "ground pork",
+        "type": "main"
+      },
+      {
+        "name": "cabbage",
+        "type": "main"
+      },
+      {
+        "name": "gyoza wrappers",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "4f2a7aae-ea6a-4c23-969c-25c83d65ac90",
+    "name": "Bangers and Mash",
+    "description": "British comfort food with pork sausages on creamy mashed potatoes, topped with onion gravy.",
+    "ingredients": [
+      {
+        "name": "pork sausages",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "beef gravy",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "milk",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "84e1f562-7c74-4490-a116-cd0824b6f62e",
+    "name": "Tabbouleh",
+    "description": "Lebanese parsley and bulgur wheat salad with tomatoes, mint, lemon juice, and olive oil.",
+    "ingredients": [
+      {
+        "name": "bulgur wheat",
+        "type": "main"
+      },
+      {
+        "name": "parsley",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "mint",
+        "type": "main"
+      },
+      {
+        "name": "lemon juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "dcaaa334-53c6-4d6b-b46c-ec22de7ad4f0",
+    "name": "Nasi Goreng",
+    "description": "Indonesian fried rice with sweet soy sauce, shrimp paste, chicken, and a fried egg on top.",
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "type": "main"
+      },
+      {
+        "name": "chicken",
+        "type": "main"
+      },
+      {
+        "name": "shrimp paste",
+        "type": "main"
+      },
+      {
+        "name": "kecap manis",
+        "type": "main"
+      },
+      {
+        "name": "egg",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "shallots",
+        "type": "household_staple"
+      },
+      {
+        "name": "chili",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "a345979e-dea1-42b4-b723-bf0d54b37126",
+    "name": "Jambalaya",
+    "description": "Louisiana Creole rice dish with andouille sausage, shrimp, chicken, and the holy trinity of vegetables.",
+    "ingredients": [
+      {
+        "name": "long grain rice",
+        "type": "main"
+      },
+      {
+        "name": "andouille sausage",
+        "type": "main"
+      },
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "chicken thighs",
+        "type": "main"
+      },
+      {
+        "name": "celery",
+        "type": "main"
+      },
+      {
+        "name": "green bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "cajun seasoning",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "f6dd7aea-ed0f-4dfc-80b4-2d5103721b6d",
+    "name": "Banh Mi",
+    "description": "Vietnamese baguette sandwich with grilled pork, pickled daikon and carrots, cilantro, and jalapenos.",
+    "ingredients": [
+      {
+        "name": "baguette",
+        "type": "main"
+      },
+      {
+        "name": "grilled pork",
+        "type": "main"
+      },
+      {
+        "name": "pickled daikon",
+        "type": "main"
+      },
+      {
+        "name": "pickled carrots",
+        "type": "main"
+      },
+      {
+        "name": "cilantro",
+        "type": "main"
+      },
+      {
+        "name": "jalapenos",
+        "type": "main"
+      },
+      {
+        "name": "mayonnaise",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "b87d2d5f-c218-4f0b-8f58-c47dbb618b98",
+    "name": "New England Clam Chowder",
+    "description": "Thick and creamy American soup with clams, potatoes, celery, and bacon in a milk-based broth.",
+    "ingredients": [
+      {
+        "name": "clams",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "bacon",
+        "type": "main"
+      },
+      {
+        "name": "heavy cream",
+        "type": "main"
+      },
+      {
+        "name": "celery",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "010a3307-e699-464a-8cec-566a0cad25dc",
+    "name": "Dal Makhani",
+    "description": "North Indian creamy black lentil dal slow-cooked overnight with butter, cream, and warm spices.",
+    "ingredients": [
+      {
+        "name": "black lentils",
+        "type": "main"
+      },
+      {
+        "name": "kidney beans",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "heavy cream",
+        "type": "main"
+      },
+      {
+        "name": "tomato puree",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "garam masala",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "50325b71-c845-4f8e-a9e2-cc280705fecd",
+    "name": "Pulpo a la Gallega",
+    "description": "Galician-style octopus boiled tender, sliced, and served on potatoes with olive oil, paprika, and sea salt.",
+    "ingredients": [
+      {
+        "name": "octopus",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "spanish paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "coarse sea salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "c196f69d-f5c9-473f-81d7-9b5ee0199577",
+    "name": "Beef Rendang",
+    "description": "Indonesian dry curry of beef slow-cooked in coconut milk and spice paste until dark, rich, and tender.",
+    "ingredients": [
+      {
+        "name": "beef chuck",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "lemongrass",
+        "type": "main"
+      },
+      {
+        "name": "galangal",
+        "type": "main"
+      },
+      {
+        "name": "toasted coconut",
+        "type": "main"
+      },
+      {
+        "name": "chili",
+        "type": "household_staple"
+      },
+      {
+        "name": "shallots",
+        "type": "household_staple"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "8b1c19c4-05e4-4a32-91b6-038df24931b0",
+    "name": "Crepes Suzette",
+    "description": "French thin crepes flambeed in a caramelized orange butter sauce with Grand Marnier liqueur.",
+    "ingredients": [
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "milk",
+        "type": "main"
+      },
+      {
+        "name": "orange juice",
+        "type": "main"
+      },
+      {
+        "name": "grand marnier",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "orange zest",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "1c6bcf6a-2857-4c8b-9a06-390fb82aa623",
+    "name": "Kottu Roti",
+    "description": "Sri Lankan chopped flatbread stir-fried with vegetables, egg, and spices on a hot griddle.",
+    "ingredients": [
+      {
+        "name": "godamba roti",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "leeks",
+        "type": "main"
+      },
+      {
+        "name": "cabbage",
+        "type": "main"
+      },
+      {
+        "name": "curry leaves",
+        "type": "main"
+      },
+      {
+        "name": "chili flakes",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "36efa975-89e4-4237-8d09-9f0cd6b77be0",
+    "name": "Arroz con Pollo",
+    "description": "Latin American one-pot chicken and rice with sofrito, beer, and peas, colored with sazon and annatto.",
+    "ingredients": [
+      {
+        "name": "chicken pieces",
+        "type": "main"
+      },
+      {
+        "name": "long grain rice",
+        "type": "main"
+      },
+      {
+        "name": "beer",
+        "type": "main"
+      },
+      {
+        "name": "green peas",
+        "type": "main"
+      },
+      {
+        "name": "red bell pepper",
+        "type": "main"
+      },
+      {
+        "name": "sofrito",
+        "type": "household_staple"
+      },
+      {
+        "name": "sazon seasoning",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "d05047f9-3e9e-4b62-a41f-fdb2e5c41e9b",
+    "name": "Tiramisu",
+    "description": "Italian layered dessert with espresso-soaked ladyfingers, mascarpone cream, and cocoa powder.",
+    "ingredients": [
+      {
+        "name": "mascarpone",
+        "type": "main"
+      },
+      {
+        "name": "ladyfingers",
+        "type": "main"
+      },
+      {
+        "name": "espresso",
+        "type": "main"
+      },
+      {
+        "name": "egg yolks",
+        "type": "main"
+      },
+      {
+        "name": "cocoa powder",
+        "type": "main"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "marsala wine",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "c4a99361-11f7-492d-b95d-654b863506a5",
+    "name": "Samosa",
+    "description": "Indian fried pastry triangles filled with spiced potatoes, peas, and cumin, served with mint chutney.",
+    "ingredients": [
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "green peas",
+        "type": "main"
+      },
+      {
+        "name": "cumin seeds",
+        "type": "main"
+      },
+      {
+        "name": "mint chutney",
+        "type": "main"
+      },
+      {
+        "name": "garam masala",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "40c4ab82-43b8-4b00-8f14-482a08453f49",
+    "name": "BBQ Pulled Pork",
+    "description": "American slow-smoked pork shoulder shredded and tossed in tangy barbecue sauce, served on brioche buns.",
+    "ingredients": [
+      {
+        "name": "pork shoulder",
+        "type": "main"
+      },
+      {
+        "name": "barbecue sauce",
+        "type": "main"
+      },
+      {
+        "name": "brioche buns",
+        "type": "main"
+      },
+      {
+        "name": "coleslaw",
+        "type": "main"
+      },
+      {
+        "name": "brown sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "smoked paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "apple cider vinegar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "8d62a0d9-d1f4-433c-b992-f40a39e30068",
+    "name": "Vatapa",
+    "description": "Bahian Brazilian creamy shrimp stew with coconut milk, palm oil, peanuts, and bread thickener.",
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "coconut milk",
+        "type": "main"
+      },
+      {
+        "name": "palm oil",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "stale bread",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "cilantro",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "ccc1a1be-7576-4858-8c62-a9066f8ed13d",
+    "name": "Poutine",
+    "description": "Canadian dish of crispy french fries topped with cheese curds and smothered in hot brown gravy.",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "cheese curds",
+        "type": "main"
+      },
+      {
+        "name": "brown gravy",
+        "type": "main"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "ee0dd36f-c5d5-4adb-bf56-c4452a0a6149",
+    "name": "Croquetas de Jamon",
+    "description": "Spanish creamy bechamel fritters filled with serrano ham, breaded and deep-fried until golden and crispy.",
+    "ingredients": [
+      {
+        "name": "serrano ham",
+        "type": "main"
+      },
+      {
+        "name": "milk",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "breadcrumbs",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "nutmeg",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "173efb68-a723-4132-bfc5-db930d2f410c",
+    "name": "Jamaican Jerk Chicken",
+    "description": "Jamaican chicken marinated in fiery scotch bonnet and allspice jerk paste, grilled over pimento wood.",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "type": "main"
+      },
+      {
+        "name": "scotch bonnet peppers",
+        "type": "main"
+      },
+      {
+        "name": "allspice",
+        "type": "main"
+      },
+      {
+        "name": "thyme",
+        "type": "main"
+      },
+      {
+        "name": "scallions",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "bf977cb5-9e7c-4c5c-879d-a3da57411e13",
+    "name": "Keema Matar",
+    "description": "Indian spiced minced lamb curry with green peas, cooked with ginger, garlic, and garam masala.",
+    "ingredients": [
+      {
+        "name": "ground lamb",
+        "type": "main"
+      },
+      {
+        "name": "green peas",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "garam masala",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "8f215292-50ac-4a8b-a4d0-d5dc6193c08c",
+    "name": "Okonomiyaki",
+    "description": "Japanese savory pancake with shredded cabbage, pork belly, topped with okonomiyaki sauce and bonito flakes.",
+    "ingredients": [
+      {
+        "name": "cabbage",
+        "type": "main"
+      },
+      {
+        "name": "pork belly",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "okonomiyaki sauce",
+        "type": "main"
+      },
+      {
+        "name": "bonito flakes",
+        "type": "main"
+      },
+      {
+        "name": "japanese mayonnaise",
+        "type": "household_staple"
+      },
+      {
+        "name": "pickled ginger",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5456721a-2283-4c0a-97eb-b9c5ba549e93",
+    "name": "Fesenjan",
+    "description": "Persian pomegranate and walnut stew with chicken, sweet and tangy with a velvety sauce.",
+    "ingredients": [
+      {
+        "name": "chicken thighs",
+        "type": "main"
+      },
+      {
+        "name": "walnuts",
+        "type": "main"
+      },
+      {
+        "name": "pomegranate molasses",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      },
+      {
+        "name": "cinnamon",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "b76a9f70-2538-46d8-879b-01185d11c3be",
+    "name": "Gnocchi alla Sorrentina",
+    "description": "Italian potato gnocchi baked in tomato sauce with mozzarella and fresh basil until bubbly.",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "mozzarella",
+        "type": "main"
+      },
+      {
+        "name": "tomato sauce",
+        "type": "main"
+      },
+      {
+        "name": "basil",
+        "type": "main"
+      },
+      {
+        "name": "egg",
+        "type": "household_staple"
+      },
+      {
+        "name": "parmesan",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "b2da8dec-4788-4739-ac01-f2709f900bae",
+    "name": "Som Tam (Green Papaya Salad)",
+    "description": "Thai spicy green papaya salad pounded in a mortar with tomatoes, green beans, peanuts, and dried shrimp.",
+    "ingredients": [
+      {
+        "name": "green papaya",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "green beans",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "dried shrimp",
+        "type": "main"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "palm sugar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "ed13abba-070e-48e9-83f5-ae7335bd556b",
+    "name": "Bunny Chow",
+    "description": "South African Durban curry served inside a hollowed-out loaf of white bread.",
+    "ingredients": [
+      {
+        "name": "white bread loaf",
+        "type": "main"
+      },
+      {
+        "name": "chicken",
+        "type": "main"
+      },
+      {
+        "name": "curry powder",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "86f5141e-d601-41bb-9a55-78a3843c68a7",
+    "name": "Carne Asada",
+    "description": "Mexican grilled marinated flank steak served with charred scallions, guacamole, and warm tortillas.",
+    "ingredients": [
+      {
+        "name": "flank steak",
+        "type": "main"
+      },
+      {
+        "name": "corn tortillas",
+        "type": "main"
+      },
+      {
+        "name": "avocado",
+        "type": "main"
+      },
+      {
+        "name": "scallions",
+        "type": "main"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "cumin",
+        "type": "household_staple"
+      },
+      {
+        "name": "cilantro",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "d4b027f7-31e9-4ce9-b8cd-b710569c309a",
+    "name": "Bobotie",
+    "description": "South African spiced minced meat bake with egg custard topping, raisins, and almonds.",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "milk",
+        "type": "main"
+      },
+      {
+        "name": "white bread",
+        "type": "main"
+      },
+      {
+        "name": "raisins",
+        "type": "main"
+      },
+      {
+        "name": "curry powder",
+        "type": "household_staple"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      },
+      {
+        "name": "bay leaves",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "70bedd53-ff14-4e45-a99e-5fa1362f316d",
+    "name": "Stamppot",
+    "description": "Dutch comfort dish of mashed potatoes with kale, served with smoked sausage and gravy.",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "kale",
+        "type": "main"
+      },
+      {
+        "name": "smoked sausage",
+        "type": "main"
+      },
+      {
+        "name": "gravy",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "milk",
+        "type": "household_staple"
+      },
+      {
+        "name": "nutmeg",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "0d0fe5a1-d5b7-4e67-be6d-52efae88921f",
+    "name": "Filipino Adobo",
+    "description": "Filipino braised pork and chicken in soy sauce, vinegar, garlic, and bay leaves until tender and savory.",
+    "ingredients": [
+      {
+        "name": "pork belly",
+        "type": "main"
+      },
+      {
+        "name": "chicken thighs",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "main"
+      },
+      {
+        "name": "white vinegar",
+        "type": "main"
+      },
+      {
+        "name": "bay leaves",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "black peppercorns",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "afa40808-130f-45bb-bb17-5f678fdccd9d",
+    "name": "Causa Limena",
+    "description": "Peruvian layered cold potato terrine with aji amarillo, filled with chicken or tuna salad and avocado.",
+    "ingredients": [
+      {
+        "name": "yellow potatoes",
+        "type": "main"
+      },
+      {
+        "name": "aji amarillo paste",
+        "type": "main"
+      },
+      {
+        "name": "chicken breast",
+        "type": "main"
+      },
+      {
+        "name": "avocado",
+        "type": "main"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "mayonnaise",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9201b787-a0cf-436c-b29c-3b6fc9cc1c0e",
+    "name": "Char Siu (BBQ Pork)",
+    "description": "Cantonese barbecued pork glazed with honey, five-spice, and hoisin, roasted until caramelized and sticky.",
+    "ingredients": [
+      {
+        "name": "pork shoulder",
+        "type": "main"
+      },
+      {
+        "name": "hoisin sauce",
+        "type": "main"
+      },
+      {
+        "name": "honey",
+        "type": "main"
+      },
+      {
+        "name": "five-spice powder",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "red food coloring",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "e098cb94-278f-4016-82ee-fd5b7c09967a",
+    "name": "Gambas al Ajillo",
+    "description": "Spanish garlic shrimp sizzled in olive oil with sliced garlic, dried chili, and a splash of sherry.",
+    "ingredients": [
+      {
+        "name": "large shrimp",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "main"
+      },
+      {
+        "name": "dried red chili",
+        "type": "main"
+      },
+      {
+        "name": "sherry",
+        "type": "main"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "parsley",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "f56ea195-ecd2-41dd-a903-3cd7329683a9",
+    "name": "Pappardelle al Ragu di Cinghiale",
+    "description": "Tuscan wide ribbon pasta with slow-cooked wild boar ragu in red wine and tomatoes.",
+    "ingredients": [
+      {
+        "name": "pappardelle pasta",
+        "type": "main"
+      },
+      {
+        "name": "wild boar",
+        "type": "main"
+      },
+      {
+        "name": "red wine",
+        "type": "main"
+      },
+      {
+        "name": "san marzano tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "celery",
+        "type": "main"
+      },
+      {
+        "name": "rosemary",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "e199004d-838d-4f98-b0f3-2316dc948ce3",
+    "name": "Dolma (Stuffed Grape Leaves)",
+    "description": "Turkish stuffed grape leaves with spiced rice, pine nuts, currants, and fresh herbs, served cold with yogurt.",
+    "ingredients": [
+      {
+        "name": "grape leaves",
+        "type": "main"
+      },
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "pine nuts",
+        "type": "main"
+      },
+      {
+        "name": "currants",
+        "type": "main"
+      },
+      {
+        "name": "dill",
+        "type": "main"
+      },
+      {
+        "name": "lemon juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "mint",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "1ac64350-1f82-4364-a321-3b838c286228",
+    "name": "Katsu Curry",
+    "description": "Japanese breaded and fried pork cutlet served over rice with a thick, mild curry sauce.",
+    "ingredients": [
+      {
+        "name": "pork loin",
+        "type": "main"
+      },
+      {
+        "name": "panko breadcrumbs",
+        "type": "main"
+      },
+      {
+        "name": "japanese curry roux",
+        "type": "main"
+      },
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "egg",
+        "type": "household_staple"
+      },
+      {
+        "name": "flour",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "100203bd-42aa-45dc-924b-ae36e6f855b9",
+    "name": "Cachapa",
+    "description": "Venezuelan sweet corn pancake folded over queso de mano and butter, savory-sweet and golden.",
+    "ingredients": [
+      {
+        "name": "fresh corn kernels",
+        "type": "main"
+      },
+      {
+        "name": "queso de mano",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "50d1f6be-229a-4be4-86c3-53849dfff6d7",
+    "name": "Tandoori Chicken",
+    "description": "Indian chicken marinated in yogurt, turmeric, and tandoori spices, roasted at high heat until charred.",
+    "ingredients": [
+      {
+        "name": "chicken legs",
+        "type": "main"
+      },
+      {
+        "name": "yogurt",
+        "type": "main"
+      },
+      {
+        "name": "tandoori masala",
+        "type": "main"
+      },
+      {
+        "name": "lemon juice",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "e2ca9e89-6ff2-404d-b641-5f1a69137dcb",
+    "name": "Souffle au Fromage",
+    "description": "French cheese souffle made with Gruyere, puffed golden and airy, served immediately from the oven.",
+    "ingredients": [
+      {
+        "name": "gruyere cheese",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "milk",
+        "type": "main"
+      },
+      {
+        "name": "nutmeg",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      },
+      {
+        "name": "cream of tartar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "d99876ce-a752-4b05-b601-8e118b450b03",
+    "name": "Mapo Tofu",
+    "description": "Sichuan spicy tofu with ground pork in a numbing chili bean paste sauce with Sichuan peppercorns.",
+    "ingredients": [
+      {
+        "name": "silken tofu",
+        "type": "main"
+      },
+      {
+        "name": "ground pork",
+        "type": "main"
+      },
+      {
+        "name": "doubanjiang",
+        "type": "main"
+      },
+      {
+        "name": "sichuan peppercorns",
+        "type": "main"
+      },
+      {
+        "name": "green onions",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "sesame oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "8f11f2e9-bd82-42c1-b87c-70d4ef106b7f",
+    "name": "Aloo Gobi",
+    "description": "Indian dry curry with potatoes and cauliflower stir-fried with turmeric, cumin, and coriander.",
+    "ingredients": [
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "cauliflower",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "cumin seeds",
+        "type": "main"
+      },
+      {
+        "name": "turmeric",
+        "type": "household_staple"
+      },
+      {
+        "name": "coriander powder",
+        "type": "household_staple"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "7832ccc5-0d57-496d-a051-0174855288c5",
+    "name": "Bacalhau a Bras",
+    "description": "Portuguese shredded salt cod with matchstick fries and scrambled eggs, garnished with olives and parsley.",
+    "ingredients": [
+      {
+        "name": "salt cod",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "eggs",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "black olives",
+        "type": "main"
+      },
+      {
+        "name": "parsley",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "9301bdbc-8993-4b0e-b96d-dabf302460c9",
+    "name": "Kung Pao Chicken",
+    "description": "Sichuan stir-fried chicken with peanuts, dried chilies, and Sichuan peppercorns in a sweet-savory sauce.",
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "type": "main"
+      },
+      {
+        "name": "peanuts",
+        "type": "main"
+      },
+      {
+        "name": "dried red chilies",
+        "type": "main"
+      },
+      {
+        "name": "sichuan peppercorns",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "rice vinegar",
+        "type": "household_staple"
+      },
+      {
+        "name": "sugar",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "819716e9-ae7d-4ac2-8e17-b3babe1089cb",
+    "name": "Fabada Asturiana",
+    "description": "Asturian white bean stew with chorizo, morcilla, and pork shoulder, rich and deeply smoky.",
+    "ingredients": [
+      {
+        "name": "white beans",
+        "type": "main"
+      },
+      {
+        "name": "chorizo",
+        "type": "main"
+      },
+      {
+        "name": "morcilla",
+        "type": "main"
+      },
+      {
+        "name": "pork shoulder",
+        "type": "main"
+      },
+      {
+        "name": "saffron",
+        "type": "main"
+      },
+      {
+        "name": "bay leaf",
+        "type": "household_staple"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "b34ea486-bfc9-4e41-96a6-c447eeb4260f",
+    "name": "Larb (Thai Meat Salad)",
+    "description": "Thai minced pork salad with roasted rice powder, fish sauce, lime, chili, and fresh mint.",
+    "ingredients": [
+      {
+        "name": "ground pork",
+        "type": "main"
+      },
+      {
+        "name": "roasted rice powder",
+        "type": "main"
+      },
+      {
+        "name": "shallots",
+        "type": "main"
+      },
+      {
+        "name": "mint",
+        "type": "main"
+      },
+      {
+        "name": "cilantro",
+        "type": "main"
+      },
+      {
+        "name": "fish sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "lime juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "chili flakes",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "5bb7f11a-d212-4579-a42d-33709fae6083",
+    "name": "Locro Argentino",
+    "description": "Argentine thick corn and white bean stew with pork, chorizo, and butternut squash for national holidays.",
+    "ingredients": [
+      {
+        "name": "white corn",
+        "type": "main"
+      },
+      {
+        "name": "white beans",
+        "type": "main"
+      },
+      {
+        "name": "butternut squash",
+        "type": "main"
+      },
+      {
+        "name": "pork ribs",
+        "type": "main"
+      },
+      {
+        "name": "chorizo",
+        "type": "main"
+      },
+      {
+        "name": "cumin",
+        "type": "household_staple"
+      },
+      {
+        "name": "paprika",
+        "type": "household_staple"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "340fa155-1166-4df8-927f-551e714ba5b8",
+    "name": "Baba Ganoush",
+    "description": "Smoky Middle Eastern roasted eggplant dip blended with tahini, lemon, and garlic, served with pita.",
+    "ingredients": [
+      {
+        "name": "eggplant",
+        "type": "main"
+      },
+      {
+        "name": "tahini",
+        "type": "main"
+      },
+      {
+        "name": "pita bread",
+        "type": "main"
+      },
+      {
+        "name": "lemon juice",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "olive oil",
+        "type": "household_staple"
+      },
+      {
+        "name": "salt",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "ab5e939d-3aa1-4939-8b41-bb51e1eda1f5",
+    "name": "Cottage Pie",
+    "description": "British minced beef in rich gravy topped with creamy mashed potatoes and baked until golden.",
+    "ingredients": [
+      {
+        "name": "ground beef",
+        "type": "main"
+      },
+      {
+        "name": "potatoes",
+        "type": "main"
+      },
+      {
+        "name": "carrots",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "main"
+      },
+      {
+        "name": "worcestershire sauce",
+        "type": "main"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      },
+      {
+        "name": "tomato paste",
+        "type": "household_staple"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "50de1a70-ce51-4692-ba46-7762d3c67e37",
+    "name": "Chole Bhature",
+    "description": "North Indian spiced chickpea curry served with deep-fried puffy bread, a popular street food.",
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "type": "main"
+      },
+      {
+        "name": "flour",
+        "type": "main"
+      },
+      {
+        "name": "yogurt",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "chole masala",
+        "type": "main"
+      },
+      {
+        "name": "ginger",
+        "type": "household_staple"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "17db199f-b9a3-4571-827c-dba95d3fd012",
+    "name": "Cassoulet",
+    "description": "French slow-baked casserole from Toulouse with white beans, duck confit, sausages, and pork.",
+    "ingredients": [
+      {
+        "name": "white beans",
+        "type": "main"
+      },
+      {
+        "name": "duck confit",
+        "type": "main"
+      },
+      {
+        "name": "toulouse sausage",
+        "type": "main"
+      },
+      {
+        "name": "pork belly",
+        "type": "main"
+      },
+      {
+        "name": "breadcrumbs",
+        "type": "main"
+      },
+      {
+        "name": "garlic",
+        "type": "household_staple"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "bay leaf",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "10832aad-121a-447d-8ad5-439a5cf82713",
+    "name": "Chirashi Bowl",
+    "description": "Japanese scattered sushi bowl with assorted sashimi, tamago, shrimp, and vegetables over seasoned rice.",
+    "ingredients": [
+      {
+        "name": "sushi rice",
+        "type": "main"
+      },
+      {
+        "name": "assorted sashimi",
+        "type": "main"
+      },
+      {
+        "name": "tamago",
+        "type": "main"
+      },
+      {
+        "name": "shrimp",
+        "type": "main"
+      },
+      {
+        "name": "cucumber",
+        "type": "main"
+      },
+      {
+        "name": "nori",
+        "type": "household_staple"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "rice vinegar",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "ea23819c-6f01-4f1b-af47-275a39751f12",
+    "name": "Ackee and Saltfish",
+    "description": "Jamaican national dish of sauteed ackee fruit with salted cod, onions, tomatoes, and scotch bonnet.",
+    "ingredients": [
+      {
+        "name": "ackee",
+        "type": "main"
+      },
+      {
+        "name": "salt cod",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "scotch bonnet pepper",
+        "type": "main"
+      },
+      {
+        "name": "onion",
+        "type": "household_staple"
+      },
+      {
+        "name": "thyme",
+        "type": "household_staple"
+      },
+      {
+        "name": "black pepper",
+        "type": "household_staple"
+      },
+      {
+        "name": "vegetable oil",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "a955ed59-9884-43c1-a93a-11ff5fe7518d",
+    "name": "Turkish Pide",
+    "description": "Turkish boat-shaped flatbread filled with spiced ground lamb, egg, and cheese, baked in a wood oven.",
+    "ingredients": [
+      {
+        "name": "bread dough",
+        "type": "main"
+      },
+      {
+        "name": "ground lamb",
+        "type": "main"
+      },
+      {
+        "name": "egg",
+        "type": "main"
+      },
+      {
+        "name": "kashar cheese",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "red pepper flakes",
+        "type": "household_staple"
+      },
+      {
+        "name": "parsley",
+        "type": "household_staple"
+      },
+      {
+        "name": "butter",
+        "type": "household_staple"
+      }
+    ]
+  },
+  {
+    "id": "0b7f9c97-327e-4377-be0f-8a5537844030",
+    "name": "Lomo Saltado",
+    "description": "Peruvian stir-fried beef with tomatoes, onions, and aji amarillo, served with french fries and rice.",
+    "ingredients": [
+      {
+        "name": "beef sirloin",
+        "type": "main"
+      },
+      {
+        "name": "tomatoes",
+        "type": "main"
+      },
+      {
+        "name": "red onion",
+        "type": "main"
+      },
+      {
+        "name": "aji amarillo",
+        "type": "main"
+      },
+      {
+        "name": "french fries",
+        "type": "main"
+      },
+      {
+        "name": "rice",
+        "type": "main"
+      },
+      {
+        "name": "soy sauce",
+        "type": "household_staple"
+      },
+      {
+        "name": "vinegar",
+        "type": "household_staple"
+      }
+    ]
+  }
+]
