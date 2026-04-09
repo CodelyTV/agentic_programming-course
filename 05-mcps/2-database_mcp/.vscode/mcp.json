@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"postgres": {
+			"command": "npx",
+			"args": [
+				"@modelcontextprotocol/server-postgres",
+				"postgresql://supabase_admin:c0d3ly7v@localhost:5432/postgres"
+			]
+		}
+	}
+}
