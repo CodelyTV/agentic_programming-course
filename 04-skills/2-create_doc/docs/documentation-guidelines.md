@@ -81,4 +81,4 @@ Examples:
 
 ## Reference example
 
-See [`docs/sql-database/not-null-fields.md`](sql-database/not-null-fields.md) as a complete example of correctly structured documentation.
+See [`docs/database/not-null-fields.md`](database/not-null-fields.md) as a complete example of correctly structured documentation.
